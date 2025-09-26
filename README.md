@@ -83,7 +83,7 @@ The dashboard includes:
 ---
 
 ## 📸  Screenshots / Demos
- show what the dashboard looks like.
+ show what the dashboard looks like. - ![Alt text](https://github.com/user)
  
 
 ## 🚀 Getting Started  
