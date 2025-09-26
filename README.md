@@ -83,9 +83,9 @@ The dashboard includes:
 ---
 
 ## 📸  Screenshots / Demos
- show what the dashboard looks like. - ![Alt text](https://github.com/mdsajidhussain0786/Ola-Ride-Analytics/blob/f6ebb825eb9bcb4adc28e0d40f256ad53fa0248e/Snapshot%20of%20Ola%20Dashboard.png)
+ show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 
- Example: ![Dashboard Preview](https://github.com/mdsajidhussain0786/Ola-Ride-Analytics/blob/f6ebb825eb9bcb4adc28e0d40f256ad53fa0248e/Snapshot%20of%20Ola%20Dashboard.png)
+ Example: ![Dashboard Preview](https://github.com/mdsajidhussain0786/Ola-Ride-Analytics/blob/main/Snapshot%20of%20Ola%20Dashboard.png)
  
 
 ## 🚀 Getting Started  
