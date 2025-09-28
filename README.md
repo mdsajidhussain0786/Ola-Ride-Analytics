@@ -91,4 +91,4 @@ The dashboard includes:
 ## 🚀 Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/mdsajidhussain0786/Ola-Ride-Analytics.git>
